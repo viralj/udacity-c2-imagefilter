@@ -1,5 +1,11 @@
 # Udagram Image Filtering Microservice
 
+#########################################################
+# AWS beanstalk url:
+# http://udacity-joshi-image-filter-dev.us-east-2.elasticbeanstalk.com/
+#
+##########################################################
+
 ## Tasks
 
 ### Setup Node Enviornment
